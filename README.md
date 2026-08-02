@@ -6,10 +6,6 @@
   <a href="mailto:sourabh1122334455@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+SJBIT;Computer+Vision+Developer;Backend+Dev+%28Flask+%26+Django%29;Embedded+Systems+Enthusiast;Currently+Building+DriverGuard" alt="Typing SVG"/>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -44,10 +40,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sourabh-kr823/Sourabh-kr823/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+  <img src="https://ghchart.rshah.org/Sourabh-kr823" alt="Sourabh's Contribution Graph" width="100%"/>
 </p>
 
 ---
