@@ -40,13 +40,6 @@
 
 ---
 
-### 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Sourabh-kr823" alt="Sourabh's Contribution Graph" width="100%"/>
-</p>
-
----
 
 ### 🔨 Currently Building
 
