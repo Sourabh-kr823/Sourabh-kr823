@@ -60,15 +60,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourabh-kr823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" onerror="this.style.display='none'"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabh-kr823&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://raw.githubusercontent.com/Sourabh-kr823/Sourabh-kr823/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-kr823&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
+---
+
+### 🔨 Currently Building
+
+| Status | Project | Goal |
+|---|---|---|
+| 🟢 Active | DriverGuard | Deploy on Raspberry Pi 5 with IR cam + GPS |
+| 🟡 Upcoming | DriverGuard Dashboard | Cloud-sync of session analytics |
+| 🔵 Learning | DSA (LeetCode) | Strengthen problem-solving fundamentals |
 
 ---
 
