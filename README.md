@@ -18,7 +18,6 @@
 - 🎓 B.E. in Computer Science, graduating **2027** | CGPA: 7.85
 - 🚗 Currently building **DriverGuard** — a real-time dual-pipeline vehicle safety system
 - 🧠 Interested in **Computer Vision**, **backend systems**, and **embedded hardware**
-- 💬 Ask me about Python, Flask or OpenCV
 - 📍 Bengaluru, India
 
 ---
